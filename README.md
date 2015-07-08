@@ -2,8 +2,8 @@
 # ProyectoBootcampG2
 Hola  que tal!
 
-Holaaa!!! Holaaa!!! Holaaa!!!    CHAO!! 
-=======
+Holaaa!!! Holaaa!!! Holaaa!!! cualquiercosa
+>>>>>>> 7aac52d871260638e1a6c7b0d8e932c9bcd025
 # ProyectoBootcampG2editado
 Holadsidjasdioasj odasjiod  que tal!
 
